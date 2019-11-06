@@ -1,27 +1,11 @@
-[![Build Status](https://travis-ci.org/stellar/stellar-core.svg?branch=auto)](https://travis-ci.org/stellar/stellar-core)
-
-
-# stellar-core
-
-Stellar-core is a replicated state machine that maintains a local copy of a cryptographic ledger and processes transactions against it, in consensus with a set of peers.
-It implements the [Stellar Consensus Protocol](https://github.com/stellar/stellar-core/blob/master/src/scp/readme.md), a _federated_ consensus protocol.
-It is written in C++14 and runs on Linux, OSX and Windows.
-Learn more by reading the [overview document](https://github.com/stellar/stellar-core/blob/master/docs/readme.md).
-
-# Documentation
-
-Documentation of the code's layout and abstractions, as well as for the
-functionality available, can be found in
-[`./docs`](https://github.com/stellar/stellar-core/tree/master/docs).
-
-# Installation
-
-See [Installation](./INSTALL.md)
-
-# Contributing
-
-See [Contributing](./CONTRIBUTING.md)
-
-# Running tests
-
-See [running tests](./CONTRIBUTING.md#running-tests)
+The MXP
+The MXP is a decentralized Cryptocurrency on Stellar platform aimed to expedite and decrease the cost of the Health care related expense payment processing. The system is powered by a network of Health care facilities (Medica,l Dental, Pharmaceuticals ), including but not limited to Insurance companies, health care centers, Laboratories, Dental care facilities, pharmacies and pharmaceutical companies, research centers, their clients and patients. Also Across borders and international Fund processing will be in a matter of seconds instead of using regular banking systems.
+MXP
+MXP is a Public Digital cryptocurrency Asset designed to expedite and facilitate the paymet processing while keeping the identity of the ecncounterd parties safe and secure, as well as HIPPA compliant and fraud protected. 
+Runs on Stellar platform
+MXP runs on Stellar platform.
+Important Highlights:
+In real world Average Medical-dental claim processing time is about 7 to 60 days depending on the states and insurance companies and
+average Patient payment processing time is about additional 60-90 days. That means a full claim processing from start to end can take up to 150 days. Inaddition transfering payments as checks, wire transfer, credit card payments may take average of 3 to 10 business days.  With utilizing MXP processing the payment processing will be immediate from the time that claim has been processed and approved  by processing agent such as insurances , hospitals, Medical-Dental  offices and etc... until the payment be received by clients such as hospitals/ Health care facilities, patients and pharmacies will be almost immediate in about seconds to Few Minutes as soon as initiated.
+WWW.MedExpresspayment.com , WWW.MXPpay.com.
+Developement is under evaluation.
